@@ -182,8 +182,13 @@ main section {
 }
 
 .download-cv {
-    width: 200px;
-    height: 64px;
-    flex-shrink: 5;
     margin-top: 50px;
+    text-align: center;
+}
+/* footer styles */
+footer {
+    display: flex;
+    background-color: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
 }
